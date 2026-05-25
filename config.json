@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcave",
+        "uuid": 2316913,
+        "checksum": "nw7l4o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
